@@ -1,6 +1,8 @@
 # 本项目描述
 使用stm32，基于[RT-Thread系统](https://github.com/RT-Thread/rt-thread)，使用串口控制led灯带的开关
 
+关于[本开发板的相关信息](README_BSP.md)
+
 # 连线图
 
 ![](figures/stm32_stc_light/stm32f103c8t6.png)
